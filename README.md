@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
 
-- 🌱 I’m currently learning: Nodejs, Java, C# ...
+- 🌱 I’m currently learning: Node js, Java, C# ...
 - 💬 How to reach me: <a href="mailto:ncphuong16@gmai.com" alt="Email">ncphuong16@gmail.com</a>
 - ⚡ My linkedin: <a href="https://www.linkedin.com/in/lluvh/" target="_blank">https://www.linkedin.com/in/lluvh/</a>
 ## Technical Skills:
