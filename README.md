@@ -15,32 +15,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Doan Quoc Bao</h1>
+<h4 align="center">Hi friend, thank you for visiting my github <img src="https://img.icons8.com/color/30/000000/like--v3.png"/> </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=QuocBao1097" alt="QuocBao1097"/> </p>
 
 - ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
 
-- 🌱 I’m currently learning: Nodejs, Java, C#
-
-
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lluvh/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/doan1097/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/QuocBao1097" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:ncphuong16@gmai.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
+- 🌱 I’m currently learning: Nodejs, Java, C# ...
+- 💬 How to reach me: <a href="mailto:ncphuong16@gmai.com" alt="Email">ncphuong16@gmail.com</a>
+- ⚡ My linkedin: <a href="https://www.linkedin.com/in/lluvh/" target="_blank">https://www.linkedin.com/in/lluvh/</a>
 ## Skills:
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
