@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
 
 - 🌱 I’m currently learning: ReactJs, NodeJs ...
-- 💬 How to reach me: <a href="mailto:baodq.dev@gmai.com" alt="Email">ncphuong16@gmail.com</a>
+- 💬 How to reach me: <a href="mailto:baodq.dev@gmai.com" alt="Email">baodq.dev@gmail.com</a>
 - ⚡ My linkedin: <a href="https://www.linkedin.com/in/lluvh/" target="_blank">https://www.linkedin.com/in/lluvh/</a>
 ## Technical Skills:
 <p align="center">
