@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/officel/48/null/react.png"/>
  <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
  <img src="https://img.icons8.com/plasticine/48/null/tailwind_css.png"/>
- <img src="https://img.icons8.com/ios-glyphs/48/null/wordpress--v1.png"/>
+ <img src="https://img.icons8.com/color/48/null/wordpress.png"/>
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
