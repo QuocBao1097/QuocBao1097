@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Doan Quoc Bao</h1>
-<h4 align="center">Hi friend, thank you for visiting my github <img src="https://img.icons8.com/color/30/000000/like--v3.png"/> </h4>
+<h4 align="center">Thank you for visiting my github</h4>
 
 
 - ✍ I'm a student of: University of Information Technology ---> https://uit.edu.vn/
