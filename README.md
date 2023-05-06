@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p align="center"> 
-        <img src="images/README_img.png" alt="dev" width="100%"/>
+        <img src="images/bao.png" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
