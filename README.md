@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Ruby on Rails
 - 💬 How to reach me: <a href="mailto:baodq.dev@gmai.com" alt="Email">baodq.dev@gmail.com</a>
 - ⚡ My linkedin: <a href="https://www.linkedin.com/in/lluvh/" target="_blank">https://www.linkedin.com/in/lluvh/</a>
-## Technical Skills:
+
 <p align="center">
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<!--  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
  <img src="https://img.icons8.com/officel/48/null/react.png"/>
  <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
  <img src="https://img.icons8.com/plasticine/48/null/tailwind_css.png"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/xamarin.png"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
- <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
+ <img src="https://img.icons8.com/color/48/null/mongodb.png"/> -->
 </p>
 
 <table style="width:100%">
